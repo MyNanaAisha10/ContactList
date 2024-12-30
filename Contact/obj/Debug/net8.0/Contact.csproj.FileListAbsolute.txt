@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Console App\Contact\bin\Debug\net8.0\Contact.exe
+C:\Users\User\Desktop\Console App\Contact\bin\Debug\net8.0\Contact.deps.json
+C:\Users\User\Desktop\Console App\Contact\bin\Debug\net8.0\Contact.runtimeconfig.json
+C:\Users\User\Desktop\Console App\Contact\bin\Debug\net8.0\Contact.dll
+C:\Users\User\Desktop\Console App\Contact\bin\Debug\net8.0\Contact.pdb
+C:\Users\User\Desktop\Console App\Contact\obj\Debug\net8.0\Contact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Console App\Contact\obj\Debug\net8.0\Contact.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Console App\Contact\obj\Debug\net8.0\Contact.AssemblyInfo.cs
+C:\Users\User\Desktop\Console App\Contact\obj\Debug\net8.0\Contact.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Console App\Contact\obj\Debug\net8.0\Contact.dll
+C:\Users\User\Desktop\Console App\Contact\obj\Debug\net8.0\refint\Contact.dll
+C:\Users\User\Desktop\Console App\Contact\obj\Debug\net8.0\Contact.pdb
+C:\Users\User\Desktop\Console App\Contact\obj\Debug\net8.0\Contact.genruntimeconfig.cache
+C:\Users\User\Desktop\Console App\Contact\obj\Debug\net8.0\ref\Contact.dll
